@@ -1,4 +1,4 @@
-# Buiness model canvas (BMC)
+# Business model canvas (BMC)
 
 <img src="README.png" alt="Business model canvas" style="width: 100%;"/>
 

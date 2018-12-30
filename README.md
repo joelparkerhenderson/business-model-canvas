@@ -2,6 +2,19 @@
 
 A business model canvas (BMC) is a strategic management template that gives a high-level overview of value propositions, customers, channels, resources, activities, partners, and more.
 
+Contents:
+
+* [Introduction](#introduction)
+* [Value propositions](#value-propositions)
+* [Revenue streams](#revenue-streams)
+* [Customer relationships](#customer-relationships)
+* [Distribution channels](#distribution-channels)
+* [Cost structures](#cost-structures)
+* [Target segments](#target-segments)
+* [Key activities](#key-activities)
+* [Key resources](#key-resources)
+* [Partner collaborations](#partner-collaborations)
+
 
 ## Introduction
 
@@ -9,7 +22,7 @@ A business model canvas is a visual chart that describes a business's value prop
 
 A business model canvas helps stakeholders communicate, helps align activities, and helps show areas of trade-offs.
 
-This page has our preferred business model canvas questions and ideas. This is based on our experiences with many software companies. Also see our resources for your [pitch deck](http://github.com/joelparkerhenderson/pitch_deck), [objectives and key results](http://github.com/joelparkerhenderson/objectives_and_key_results), and [strategic balanced scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard).
+This page has our preferred business model canvas questions and ideas. This is based on our experiences with many software companies. Also see our resources for your [pitch deck](http://github.com/joelparkerhenderson/pitch_deck), [objectives and key results](http://github.com/joelparkerhenderson/objectives_and_key_results), [strategic balanced scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard), etc.
 
 [Wikipedia: Business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)
 

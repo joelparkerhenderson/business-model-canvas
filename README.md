@@ -1,5 +1,7 @@
 # Buiness model canvas (BMC)
 
+<img src="README.png" alt="Business model canvas" style="width: 100%;"/>
+
 A business model canvas (BMC) is a strategic management template that gives a high-level overview of value propositions, customers, channels, resources, activities, partners, and more.
 
 Contents:

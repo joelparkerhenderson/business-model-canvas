@@ -26,7 +26,11 @@ A business model canvas helps stakeholders communicate, helps align activities, 
 
 This page has our preferred business model canvas questions and ideas. This is based on our experiences with many software companies. Also see our resources for your [pitch deck](http://github.com/joelparkerhenderson/pitch_deck), [objectives and key results](http://github.com/joelparkerhenderson/objectives_and_key_results), [strategic balanced scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard), etc.
 
-[Wikipedia: Business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)
+See: 
+
+* [Wikipedia: Business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas)
+
+* [Creately: Business Model Canvas Explained](https://creately.com/blog/diagrams/business-model-canvas-explained/)
 
 
 ## Value propositions
